@@ -16,7 +16,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"email\": \"yusuf@prudential.co.id\",\n    \"password\": \"04Juli00!\",\n    \"fullName\": \"Muhammad Yusuf\"\n}",
+							"raw": "{\n    \"email\": \"yusuf@example.com\",\n    \"password\": \"123456!\",\n    \"fullName\": \"Muhammad Yusuf\"\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -46,7 +46,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"email\": \"yusuf@prudential.co.id\",\n    \"password\": \"04Juli00!\"\n}",
+							"raw": "{\n    \"email\": \"yusuf@example.com\",\n    \"password\": \"04Juli00!\"\n}",
 							"options": {
 								"raw": {
 									"language": "json"
